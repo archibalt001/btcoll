@@ -1,0 +1,7 @@
+bot.py
+requests
+json
+numpy
+random
+re
+threading
